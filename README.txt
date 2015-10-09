@@ -1,4 +1,5 @@
 Visit
-http://www.pabloleanomartinet.com/cakephp-2-0-compressing-js-and-css-using-ccss-or-yuicompressor/
+
+http://www.pabloleanomartinet.com/cakephp-2-x-compressing-js-css-using-csspp-yuicompressor/
 
 for more explanation on how to use this files
